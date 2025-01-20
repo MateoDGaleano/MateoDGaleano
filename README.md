@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hola 👋
 
+#### Estudio ingenieria de sistemas en la Universidad de Antioquia
 <!--
 **MateoDGaleano/MateoDGaleano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
