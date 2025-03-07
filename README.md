@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-  <img align="right"  alt="Killua" height="140" width="150" src="https://i.pinimg.com/originals/19/a7/74/19a774063608f18280dc1274b33c1cd4.gif">
+  <img align="right"  alt="Killua" height="140" width="150" src="https://pin.it/5XUVa9paD">
 </div>
 
 ##
