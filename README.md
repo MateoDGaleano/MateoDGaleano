@@ -4,9 +4,8 @@
 - 📫 Contacto gmail: mateogaleano1811@gmail.com
 
 <div>
-  <a href="https://github.com/MateoDGaleano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateoDGaleano&show_icons=true&theme=gray-white&include_all_commits=true" align="center" alt="GitHub Readme Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoDGaleano&layout=compact&langs_count=16&theme=gray-white" align="center" alt="GitHub Readme Stats">
+  <img alt = "my stats" src = "https://github-readme-stats.vercel.app/api?username=MateoDGaleano&theme=swift&show_icons=true"/>
+  <img width = "35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoDGaleano&layout=compact&langs_count=16&theme=swift" alt="GitHub Readme Stats">
 </div>
     <p></p>
 <div>
