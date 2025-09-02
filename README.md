@@ -1,7 +1,7 @@
-## Hola 👋 Soy Mateo Galeano
+## Hi 👋 I'm Mateo Galeano
 
-- 🔭 Estudiando Ingenieria de Sistemas
-- 📫 Contacto gmail: mateogaleano1811@gmail.com
+- 🔭 Studying Systems Engineering
+- 📫 Gmail: mateogaleano1811@gmail.com
 
 <div>
   <img alt = "my stats" src = "https://github-readme-stats.vercel.app/api?username=MateoDGaleano&theme=swift&show_icons=true"/>
